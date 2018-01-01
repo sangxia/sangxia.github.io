@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Sangxia Huang
-email: huang.sangxia@gmail.com
+email: huang dot sangxia at gmail
 description: >- # this means to ignore newlines until "baseurl:"
   Personal site of Sangxia Huang
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -27,6 +27,11 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+
+header_pages:
+  - bio.md
+  - publications.md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
