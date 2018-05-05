@@ -4,8 +4,10 @@ title: Publications
 permalink: /publications/
 ---
 
-# Algorithms & Computational Complexity
-
+* [**Adversarial Attacks and Defences Competition**]({{ site.baseurl }}{% link pubs/attack.md %})
+  with Alexey Kurakin, Ian Goodfellow, Samy Bengio, et.al.
+* [**Semi-Supervised Algorithms for Approximately Optimal and Accurate Clustering**]({{ site.baseurl }}{% link pubs/clustering.md %})
+  with Buddhima Gamlath and Ola Svensson. *ICALP 2018*.
 * [**Small Extended Formulation for Knapsack Cover Inequalities from Monotone Circuits**]({{ site.baseurl }}{% link pubs/knapsack.md %})
   with Abbas Bazzi, Samuel Fiorini and Ola Svensson. *SODA 2017*.
 * [**2<sup>(log N)<sup>1/10-o(1)</sup></sup> Hardness for Hypergraph Coloring**]({{ site.baseurl }}{% link pubs/hypergraph.md %}) 
